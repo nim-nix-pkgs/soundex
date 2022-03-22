@@ -9,7 +9,7 @@
   
   inputs.src-soundex-master.flake = false;
   inputs.src-soundex-master.owner = "Kashiwara0205";
-  inputs.src-soundex-master.ref   = "refs/heads/master";
+  inputs.src-soundex-master.ref   = "master";
   inputs.src-soundex-master.repo  = "soundex";
   inputs.src-soundex-master.type  = "github";
   
