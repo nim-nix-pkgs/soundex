@@ -52,11 +52,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656747115,
-        "narHash": "sha256-fw6jDtsTj3qImNJGtKqY/v4AFojmN3kLql0fwUEtdqg=",
+        "lastModified": 1657153298,
+        "narHash": "sha256-y6hFZ+IJ6UaYCd9lyxDj7TSgh7AfApbzL84DiPoGOPU=",
         "owner": "nim-nix-pkgs",
         "repo": "soundex",
-        "rev": "fc374ab8e5abbb8f80667475f245aa512cbdbca6",
+        "rev": "c6b0398e564dd48c823f709adf657cd27ef497dd",
         "type": "github"
       },
       "original": {
